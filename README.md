@@ -34,7 +34,5 @@ A simple Streamlit UI wrapper for [vision-parse](https://github.com/iamarunbrahm
 
 5. Upload a PDF and convert!
 
-## Results
-![PDF to Markdown Conversion Interface](https://raw.githubusercontent.com/lesteroliver911/pdf-markdown-visionparse/main/pdf-markdown-vision-parse.png)
 
 
